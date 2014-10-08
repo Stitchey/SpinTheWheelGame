@@ -1,0 +1,6 @@
+c:\users\su14eriks\documents\visual studio 2013\Projects\SpinTheWheelGame\SpinTheWheelGame\bin\Debug\SpinTheWheelGame.exe.config
+c:\users\su14eriks\documents\visual studio 2013\Projects\SpinTheWheelGame\SpinTheWheelGame\obj\Debug\SpinTheWheelGame.csprojResolveAssemblyReference.cache
+c:\users\su14eriks\documents\visual studio 2013\Projects\SpinTheWheelGame\SpinTheWheelGame\bin\Debug\SpinTheWheelGame.exe
+c:\users\su14eriks\documents\visual studio 2013\Projects\SpinTheWheelGame\SpinTheWheelGame\bin\Debug\SpinTheWheelGame.pdb
+c:\users\su14eriks\documents\visual studio 2013\Projects\SpinTheWheelGame\SpinTheWheelGame\obj\Debug\SpinTheWheelGame.exe
+c:\users\su14eriks\documents\visual studio 2013\Projects\SpinTheWheelGame\SpinTheWheelGame\obj\Debug\SpinTheWheelGame.pdb
